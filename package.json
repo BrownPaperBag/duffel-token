@@ -1,6 +1,6 @@
 {
   "name": "duffel-token",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Michael Robinson <mike@pagesofinterest.net>",
   "description": "Provides model that may be used to store a value alongside an expireable, crypt-random token that could be used as the key for a password-reset URL",
   "contributors": [
