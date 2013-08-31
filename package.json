@@ -1,6 +1,6 @@
 {
   "name": "duffel-token",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Michael Robinson <mike@pagesofinterest.net>",
   "description": "Provides model that may be used to store a value alongside an expireable, crypt-random token that could be used as the key for a password-reset URL",
   "contributors": [
@@ -13,8 +13,7 @@
     "controller-loader": "0.0.x",
     "express": "3.x.x",
     "connect-flash": "0.1.x",
-    "nunjucks": "0.1.x",
-    "nunjucks-append": "0.0.x",
+    "nunjucks": "git://github.com/jlongster/nunjucks.git#master",
     "passport": "0.1.x",
     "passport-local": "0.1.x",
     "bcrypt": "0.7.x",
