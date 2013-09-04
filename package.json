@@ -1,6 +1,6 @@
 {
   "name": "duffel-token",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Michael Robinson <mike@pagesofinterest.net>",
   "description": "Provides model that may be used to store a value alongside an expireable, crypt-random token that could be used as the key for a password-reset URL",
   "contributors": [
@@ -9,6 +9,10 @@
       "email": "mike@pagesofinterest.net"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrownPaperBag/duffel-token"
+  },
   "dependencies": {
     "controller-loader": "0.0.x",
     "express": "3.x.x",
