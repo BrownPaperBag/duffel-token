@@ -5,23 +5,23 @@
   "description": "Provides model that may be used to store a value alongside an expireable, crypt-random token that could be used as the key for a password-reset URL",
   "contributors": [
     {
-      "name": "Michael Robinson",
-      "email": "mike@pagesofinterest.net"
-    }
+    "name": "Michael Robinson",
+    "email": "mike@pagesofinterest.net"
+  }
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/BrownPaperBag/duffel-token"
   },
   "dependencies": {
-    "controller-loader": "0.0.x",
-    "express": "3.x.x",
-    "connect-flash": "0.1.x",
-    "nunjucks": "git://github.com/jlongster/nunjucks.git#master",
-    "passport": "0.1.x",
-    "passport-local": "0.1.x",
-    "bcrypt": "0.7.x",
-    "mongoose": "3.6.x",
-    "validator": "1.2.x"
+    "controller-loader": "",
+    "express": "",
+    "connect-flash": "",
+    "nunjucks": "",
+    "passport": "",
+    "passport-local": "",
+    "bcrypt": "",
+    "mongoose": "",
+    "validator": ""
   }
 }
