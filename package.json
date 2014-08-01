@@ -21,7 +21,6 @@
     "passport": "",
     "passport-local": "",
     "bcrypt": "",
-    "mongoose": "",
     "validator": ""
   }
 }
